@@ -2,4 +2,10 @@
 
 git init
 git add .
-git commit -m "messaage"
+git commit -m "message"
+
+## Software
+
+NeoVim
+Vim 
+ZSH
